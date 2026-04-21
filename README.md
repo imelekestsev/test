@@ -1,3 +1,4 @@
 # test
 [test](https://www.hardreset.info/bypass/)
-[test](intent://com.android.settings/#Intent;scheme=android-app;end)
+# test2
+[test2](intent://com.android.settings/#Intent;scheme=android-app;end)
